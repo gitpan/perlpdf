@@ -1,0 +1,44 @@
+                
+                            PERLBOOK - 5.002
+
+           Complete PERL Documentation in Adobe Acrobat Format
+      Brought to you courtesy of Bill Middleton and Adobe Systems, Inc.
+
+
+  This directory includes the file perlbook.pdf, which contains the
+entire standard documentation suite for perl5.  All of the standard
+perl modules which include embedded Pod documentation, as well as
+the complete set of perl pods are included.
+
+  Most of the hyperlinks which are available in the perl html documentation
+can be accessed through this document.  It includes a standard Acrobat
+index item for each pod, which can be expanded to view the headers and
+main topics for each document within.
+
+  To view this document, you must have one of the Adobe Acrobat (tm)
+tools, Acrobat Exchange, or Acrobat Reader.  Acrobat Reader is available
+for no charge from the Adobe Systems, Inc. web site:
+
+	<A HREF="http://www.adobe.com/">Get it here!</A>
+
+  If you own Acrobat Exchange, you can also use the enclosed Acrobat Catalog,
+which will allow you search the entire document for items of interest.
+
+  This document was created using several steps: 
+
+	- pod2fm, to convert all pods to Adobe FrameMaker Book format.
+
+	- Print to PostScript file from FrameMaker
+
+	- Distill the PostScript file using Acrobat Distiller
+
+	- Index the Acrobat file using Acrobat Catalog
+
+  As the perl documents continue to develop, I'll try to keep this distribution
+up to date.  If you are a perl extension author, and wish to make something
+like this available for your work, please contact me, and I'll try to find
+time to help.
+
+Bill Middleton
+wmiddlet@adobe.com
+
