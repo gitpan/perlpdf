@@ -1,0 +1,15 @@
+03/23/97 01:41:04: Starting build.
+03/23/97 01:41:04: Connecting to index.
+03/23/97 01:41:12: Searching: E:\PERLBOOK
+03/23/97 01:41:13: Indexing 1 documents.
+03/23/97 01:41:19: Extracting from e:\perlbook\perlbook.pdf.
+03/23/97 01:43:55: Removing index entries for changed or deleted documents.
+03/23/97 01:43:55: Removing unnecessary index entries.
+03/23/97 01:43:55: Building Word Assist List.
+03/23/97 01:44:06: Waiting for about 20 seconds to perform routine index update.
+03/23/97 01:44:31:   Total Acrobat files in all directories: 1
+03/23/97 01:44:31:   Total new files: 1
+03/23/97 01:44:31:   Total pages indexed: 820
+03/23/97 01:44:31:   Total number of files skipped: 0
+03/23/97 01:44:31:   Total deleted files: 0
+03/23/97 01:44:32: Index Build Successful.
